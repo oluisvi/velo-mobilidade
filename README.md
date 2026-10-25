@@ -13,6 +13,7 @@ Abra `dist/index.html` no navegador. O projeto não precisa de dependências ou 
 ## Estrutura
 
 - `dist/index.html`: página e estrutura principal.
+- `dist/site.css`: identidade visual, layout mobile-first, breakpoints e movimento.
 - `dist/catalog.css`: interações e estilos do catálogo.
 - `dist/catalog.js`: modelos, filtros, busca, comparação, favoritos e seleção de produtos.
 - `.openai/hosting.json`: configuração do projeto Sites.
